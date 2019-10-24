@@ -1,4 +1,9 @@
-# hello-worls
+# hello-world
+
+## Description
+```
+Experimental project for VueJS and Different CSS Layouts (Flex and Grid)
+```
 
 ## Project setup
 ```
